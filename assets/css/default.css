@@ -1,14 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
 
-.container {
-    background: #ecf4ff;
-    color: #1c1c1c;
-    margin: 64px;
-    border-radius: 20px;
-    box-shadow: 6px 6px 6px #0e1d2f;
-    padding: 64px;
-}
+
 .perfil {
     display: flex;
     align-items: center;
