@@ -1,9 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
-body {
-    background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
-    font-family: "Open Sans", sans-serif;
-}
+
 .container {
     background: #ecf4ff;
     color: #1c1c1c;
